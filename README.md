@@ -1,0 +1,1 @@
+# Claude-Writing-Space-Template
