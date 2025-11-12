@@ -1,5 +1,9 @@
 # Claude Writing Space Template
 
+[![Claude Code](https://img.shields.io/badge/Claude-Code-8A2BE2?logo=anthropic&logoColor=white)](https://claude.ai/code)
+[![Claude Code Projects Index](https://img.shields.io/badge/Claude_Code-Projects_Index-blue?logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![Master Index](https://img.shields.io/badge/GitHub-Master_Index-green?logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+
 A structured workspace template for writing projects using Claude Code, designed to preserve authorial voice while providing systematic version control and editing workflows.
 
 ## Quick Start
@@ -72,3 +76,7 @@ The `/publish` command guides you through CMS preparation and deployment.
 ## License
 
 MIT
+
+---
+
+To view an index of my Claude Code related projects, [click here](https://github.com/danielrosehill/Claude-Code-Repos-Index)
